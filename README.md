@@ -1,4 +1,5 @@
 # Laravel-Project-Final
+> * (Laravel: 9.4, PHP: 8.1.10)
 > * how to Run!
 > * 1.download file drop xampp\htdocs
 > * 2.0 -> php artisan serve
