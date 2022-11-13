@@ -10,7 +10,7 @@
             <div class="col-md-12">
                 <div class="form-group my-3">
                     <strong>Major's Keywords </strong>
-                    <input type="text" name="code" readonly="{{ $major['code']}}" class="form-control" placeholder="Keyword's CS, DS">
+                    <input type="text" name="code" value="{{ $major['code']}}" readonly="code" class="form-control" placeholder="Keyword's CS, DS">
                     @error('code')
                         <div class="alert alert-danger">{{ $message }}</div>
                     @enderror
@@ -19,7 +19,7 @@
             <div class="col-md-12">
                 <div class="form-group my-3">
                     <strong>Name</strong>
-                    <input type="text" name="description" readonly="{{ $major['description']}}" class="form-control" placeholder="Course name | Major name">
+                    <input type="text" name="description" value="{{ $major['description']}}" readonly="description" class="form-control" placeholder="Course name | Major name">
                     @error('description')
                         <div class="alert alert-danger">{{ $message }}</div>
                     @enderror
