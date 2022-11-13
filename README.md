@@ -9,6 +9,10 @@
 > * รายวิชา 935304: Web Application Programming (2022)
 > * สาขาวิชาวิทยการคอมพิวเตอร์และสารสนเทศ คณะสหวิทยาการ มหาวิทยาลัยขอนแก่น (CS: CIS#5)
 
+# Reference
+> * Laravel-CRUD-Application https://youtu.be/l4ee8GKyuLo
+> * Laravel-CRUD-Aj_Tanapattara-Wongkhamchan https://docs.google.com/document/d/10RWBlzAw4NqsbynLINfeFmganKaD8rVhxIojp0UQdJs/edit?usp=sharing&resourcekey=0-9v-g-SLLH8UED-NVnOMNSA
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
